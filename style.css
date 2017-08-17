@@ -1,6 +1,6 @@
 
 nav ul {
-	float : left;
+	float : left !important;
 	position : fixed;
 	
 }
