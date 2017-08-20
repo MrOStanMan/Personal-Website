@@ -4,9 +4,13 @@
 
 @import "{{ site.theme }}";
 
+img{
+	float: left;
+}
+
 
 nav {
 	float: left;
 	position: fixed;
-	margin-top: 20%;
+	margin-top: 5%;
 }
