@@ -17,12 +17,8 @@ nav {
 	margin-top: 5%;
 }
 
-
-@media only screen and (min-width: 150px) {
-		#project_title {
-			margin-top: 10%;
-		}
-		#project_tagline{
-			margin-top: 10%;
-		}
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+	#project_title{
+		margin-top: 7%;
+	}
 }
