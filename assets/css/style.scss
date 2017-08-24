@@ -8,9 +8,6 @@ img{
 	float: left;
 	margin-left: 10%;
 	margin-top: 1%;
- 	max-width: 100%;
-   	height: auto;
-	overflow:hidden;
 
 }
 
@@ -21,3 +18,8 @@ nav {
 }
 
 
+@media only screen and (max-width: 500px) {
+		#header_wrap {
+        margin-top: 2%;
+    }
+}
