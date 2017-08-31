@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "First Post- Building This Site"
 date:   2015-11-17 12:00:01 -1200
 categories: work
