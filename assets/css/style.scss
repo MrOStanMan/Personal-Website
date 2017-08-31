@@ -4,14 +4,6 @@
 
 @import "{{ site.theme }}";
 
-img{
-	float: left;
-	margin-left: 15%;
-	margin-top: 2%;
-    max-width: 100%;
-    height: auto;
-
-}
 
 
 nav{
@@ -21,13 +13,3 @@ nav{
 
 }
 
-
-#header_wrap h2{
-	width:55%;
-
-}
-
-#header_wrap h1{
-	width : 65%;
-
-}
