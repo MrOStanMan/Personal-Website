@@ -1,8 +1,10 @@
 
 
 nav li{
-
+	display: inline;
 	list-style-type: none;
-	font-size: 20px;
-	margin-top: 20%;
+	font-size: 130%;
+	margin-left: 10%;
+
+
 }
